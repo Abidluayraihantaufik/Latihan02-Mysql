@@ -3,4 +3,4 @@
 ## Latihan membuat Database menggunakan Mysql
 ## Tugas Praktikum
 1. Membuat sebuah databasse dengan nama latihan02!
-![](Gambar/1.png)
+![](Gambar/(1).png)
