@@ -11,3 +11,7 @@ Menggunakan perintah **Create Database Nama_Database;** untuk membuat database b
 2. Membuat sebuah tabel dengan nama biodata (nama, alamat) didalam database latihan1!
 3. Tambahkan sebuah kolom keterangan Varchar(15) sebagai kolom akhir!
 ![](Gambar/2.PNG)
+## Penjelasan :
+** Use latihan02;** untuk menggunakan database yang sudah kita buat diawal.
+**Create Table;** untuk membuat sebuah tabel
+**
