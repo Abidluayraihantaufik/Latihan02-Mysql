@@ -12,6 +12,4 @@ Menggunakan perintah **Create Database Nama_Database;** untuk membuat database b
 3. Tambahkan sebuah kolom keterangan Varchar(15) sebagai kolom akhir!
 ![](Gambar/2.PNG)
 ## Penjelasan :
-** Use latihan02;** untuk menggunakan database yang sudah kita buat diawal.
-**Create Table;** untuk membuat sebuah tabel
-<sub> show table ;
+* Use latihan02; untuk menggunakan database yang sudah dibuat diawal.
