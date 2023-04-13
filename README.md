@@ -14,4 +14,4 @@ Menggunakan perintah **Create Database Nama_Database;** untuk membuat database b
 ## Penjelasan :
 ** Use latihan02;** untuk menggunakan database yang sudah kita buat diawal.
 **Create Table;** untuk membuat sebuah tabel
-**
+<sub> show table ;
