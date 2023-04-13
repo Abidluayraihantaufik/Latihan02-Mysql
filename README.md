@@ -6,4 +6,4 @@
 
 ![](Gambar/1.PNG)
 ## Penjelasan :
-Menggunakan perintah *Create Database Nama_Database;* untuk membuat database baru
+Menggunakan perintah **Create Database Nama_Database;** untuk membuat database baru
